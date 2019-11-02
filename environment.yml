@@ -1,8 +1,0 @@
-name: data-visualization-environment
-channels:
-  - conda-forge
-dependencies:
-  - numpy
-  - pandas
-  - matplotlib
-  - seaborn
